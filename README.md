@@ -7,3 +7,4 @@ Using C++ made a crypto trading platform with the following features :-
 ->OrderBookEntry takes the tokenised data and converts it into data which can be used to make sales
 ->OrderBook uses the entries to make the sales by using Matching Engine algorithm
 ->MerkelMain is used for the user interface 
+-> making change
